@@ -9,7 +9,7 @@ IPLSeasonStats API
 ## Access
 * Get access for the repo - IPLSeasonStats.Api
 ```
-
+https://github.com/Akashmpaul/IPLSeasonStats.git
 ```
 
 ## Database
